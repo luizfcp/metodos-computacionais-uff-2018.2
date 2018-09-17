@@ -1,6 +1,6 @@
 ## Métodos Computacionais para Estatística II - UFF <img src="man/figures/UFF_brasao.png" align="right" />
 
-Essas foram as listas que eu fiz enquanto cursava a disciplina Métodos Computacionais para Estatística II na Universidade Federal Fluminense, as aulas foram ministradas pelo Prof. Dr. Jony Arrais. 
+Essas foram as listas que eu fiz enquanto curso a disciplina Métodos Computacionais para Estatística II na Universidade Federal Fluminense, as aulas são ministradas pelo Prof. Dr. Jony Arrais. 
 Sinta-se a vontade para corrigir as listas caso encontre algum erro ou até mesmo otimizar alguns códigos. 
 
 --- 
