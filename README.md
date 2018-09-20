@@ -12,7 +12,7 @@ Sinta-se a vontade para corrigir as listas caso encontre algum erro ou até mesm
 **HTML contendo todas as listas feitas enquanto curso a disciplina**
 
 <a href="http://rpubs.com/luizfcp/lista-metodos">
-<img src="man/figures/metodos.png" width="50%" height="50%" class="centerImage"/>
+<center><img src="man/figures/metodos.png" width="50%" height="50%"/></center>
 </a>
 
 ---
