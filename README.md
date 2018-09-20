@@ -15,6 +15,8 @@ Sinta-se a vontade para corrigir as listas caso encontre algum erro ou até mesm
 <img src="man/figures/metodos.png" width="50%" height="50%"/>
 </a>
 
+<img src="Listas/Lista 01/Lista_01.pdf" width="50%" height="50%"/>
+
 ---
 
 Repositório inspirado em [Daniel dos Santos](https://github.com/Daniel-EST/metodos-listas-uff)
