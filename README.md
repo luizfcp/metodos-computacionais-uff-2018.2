@@ -16,5 +16,3 @@ Sinta-se a vontade para corrigir as listas caso encontre algum erro ou até mesm
 </a>
 
 ---
-
-Repositório inspirado em [Daniel dos Santos](https://github.com/Daniel-EST/metodos-listas-uff)
